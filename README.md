@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🌙 About Me:
 
-<!--
-**Niyati659/Niyati659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 CS Undergraduate  
+- 💻 Interested in Software Development, ML, and Open Source  
+- 🛠️ Learning by building real-world projects  
+- 🤝 Looking to collaborate on meaningful tech projects  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-orange)
+![Python](https://img.shields.io/badge/Python-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-black)
+![Git](https://img.shields.io/badge/Git-red)
+![GitHub](https://img.shields.io/badge/GitHub-black)
