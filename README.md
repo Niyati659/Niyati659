@@ -2,8 +2,11 @@
 
 - 🎓 CS Undergraduate  
 - 💻 Interested in Software Development, ML, and Open Source  
-- 🛠️ Learning by building real-world projects  
-- 🤝 Looking to collaborate on meaningful tech projects  
+- 🛠️ Learning by building real-world projects
+- 🧑‍💼 Ex- Backend Developer Intern at Sponsogram at an AI startup
+- 🧑‍💼 Ex-Ml Intern at DRDO  
+- 🤝 Looking to collaborate on meaningful tech projects
+
 
 
 ## 💻 Tech Stack:
