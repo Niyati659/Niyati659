@@ -12,3 +12,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black)
 ![Git](https://img.shields.io/badge/Git-red)
 ![GitHub](https://img.shields.io/badge/GitHub-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
