@@ -1,5 +1,6 @@
 ## 🌙 About Me:
 
+-2nd Winner of Foodoscope Hackathon held at IIIT DELHI 2026
 - 🎓 CS Undergraduate  
 - 💻 Interested in Software Development, ML, and Open Source  
 - 🛠️ Learning by building real-world projects
